@@ -53,9 +53,9 @@ Self-built "second brain": scheduled Claude Code agents that mirror chat transcr
 
 ---
 
-## Background
+## My path
 
-Engineering and AI since 2024 (Intuit AI). Before that: independent futures trader and mentor (2018–2023); international civil-service roles in multilateral and EU organizations (2013–2018, 2023–2024); conservatory-trained musician and teacher (2003–2013); economics studies (1998–2003). The through-line: disciplined, structured systems thinking — and the ability to reinvent toward the goal.
+A non-linear one. I trained as a musician, spent years in international civil-service roles (multilateral and EU organizations), then became a professional futures trader and mentor — and since 2024 I build AI software full-time. The through-line is disciplined, structured systems thinking and the ability to reinvent toward the goal. I'm judged best by what I ship, not by a checklist.
 
 Languages: Italian (native) · Spanish · English.
 
@@ -63,8 +63,6 @@ Languages: Italian (native) · Spanish · English.
 
 ## Open to work
 
-I'm looking for AI / automation engineering roles — remote or relocation, worldwide.
+I'm looking for AI / automation engineering roles — remote or relocation, worldwide. I'm judged best by what I ship: the products above are live, and the code behind them is real.
 
 📧 lifemarcog@gmail.com · 📍 Guatemala (open to relocation)
-
-📄 **[Full CV](CV.md)**
