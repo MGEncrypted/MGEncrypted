@@ -20,9 +20,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/agentemia-website-chat.gif" alt="agentemIA — the AI front-office answering on a client's website, in real time" width="92%">
+  <img src="assets/agentemia-14-services.gif" alt="agentemIA — 14 services, one subscription: chat, phone, WhatsApp, lead capture, sales qualification, console, CRM/ERP, slides, reports, infographics, local lead finder, AI-search visibility, landing + hosting, SEO / Google profile" width="92%">
 </p>
-<p align="center"><sub>agentemIA campaign spot — the branded AI team answering on the client's own site. Full spots with sound below.</sub></p>
+<p align="center"><sub>agentemIA — <strong>14 services, one subscription.</strong> One frame per service from the campaign; the full spots are below.</sub></p>
 
 ---
 
@@ -34,7 +34,7 @@ to Claude-powered agents that run unattended.
 
 <table>
 <tr><th width="160">Product</th><th>What it is</th><th width="130">Live</th></tr>
-<tr><td align="center"><img src="assets/agentemia-logo.png" width="110" alt="agentemIA"><br><strong>agentemIA</strong></td><td>The AI front-office department for Italian professionals and SMBs: branded website chat, an AI phone agent on an Italian number, custom landing pages — one inbox, one console.</td><td align="center"><a href="https://agentemia.it">agentemia.it</a></td></tr>
+<tr><td align="center"><img src="assets/agentemia-logo.png" width="110" alt="agentemIA"><br><strong>agentemIA</strong></td><td>The AI front-office department for Italian professionals and SMBs — 14 services under one subscription: branded chat, phone agent, WhatsApp, lead capture and qualification, console, CRM/ERP, document studio (slides, reports, infographics), local lead finder, AI-search visibility, landing + hosting, SEO / Google profile.</td><td align="center"><a href="https://agentemia.it">agentemia.it</a></td></tr>
 <tr><td align="center"><img src="assets/presencia-logo-mark.png" width="72" alt="presencIA"><br><strong>presencIA</strong></td><td>AI-powered web agency for boutique hotels and local businesses around Lake Atitlán, Guatemala: get found, get trusted, get booked.</td><td align="center"><a href="https://presencia.lat">presencia.lat</a></td></tr>
 <tr><td align="center"><img src="assets/psycho-logo.png" width="90" alt="PSYCHO"><br><strong>PSYCHO</strong><br><sub>The Trader Within</sub></td><td>Trading-psychology platform: AI mentor, trade journal with broker import, prop-firm rule evaluator, Monte Carlo, WhatsApp coaching.</td><td align="center"><a href="https://psycho.lat">psycho.lat</a></td></tr>
 </table>
@@ -43,9 +43,42 @@ to Claude-powered agents that run unattended.
 
 ## agentemIA — *Velocità · Verticalità · Verità*
 
-Not a chatbot. A department: five named agents that answer in chat on the client's website and on the phone on
-the client's Italian number — in real time, day and night, holidays included. If they don't know, they say so
-and hand off to a human.
+Not a chatbot. A whole front-office department, sold as **one subscription**: every service below is included —
+the client picks the size (Base / Pro / Premium), not the features. Five named agents run it, in real time, day
+and night, holidays included, in 110 languages. If they don't know, they say so and hand off to a human.
+
+### 14 services, one subscription
+
+<table align="center">
+<tr>
+<td align="center" width="25%"><img src="assets/services/website-chat.jpg" alt="Website chat"><br><sub><strong>01 · Website chat</strong><br>The AI team in a chat with the client's brand, on the client's site.</sub></td>
+<td align="center" width="25%"><img src="assets/services/phone-answering.jpg" alt="Phone agent"><br><sub><strong>02 · Phone agent</strong><br>Answers on the client's own Italian number. Books the appointment into the console.</sub></td>
+<td align="center" width="25%"><img src="assets/services/whatsapp.jpg" alt="WhatsApp &amp; Facebook"><br><sub><strong>03 · WhatsApp &amp; Facebook</strong><br>Same department, same inbox — replies at 23:47 while the owner sleeps.</sub></td>
+<td align="center" width="25%"><img src="assets/services/lead-capture.jpg" alt="Lead capture"><br><sub><strong>04 · Lead capture</strong><br>Every conversation becomes a lead card: name, contact, reason. Forms inside the chat, zero drop-off.</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><img src="assets/services/sales-qualification.jpg" alt="Sales qualification"><br><sub><strong>05 · Sales qualification</strong><br>Daniel qualifies before the owner spends a minute; only ready contacts get escalated.</sub></td>
+<td align="center" width="25%"><img src="assets/services/one-dashboard.jpg" alt="Console"><br><sub><strong>06 · Console &amp; Dashboard Agents</strong><br>Five agents, one command centre: funnel, conversions, cost per conversation, nightly self-improvement.</sub></td>
+<td align="center" width="25%"><img src="assets/services/crm-erp.jpg" alt="CRM / ERP integration"><br><sub><strong>07 · CRM / ERP integration</strong><br>The agent writes into HubSpot, Pipedrive or the client's own system. Typed once, never by hand.</sub></td>
+<td align="center" width="25%"><img src="assets/services/slide-generator.jpg" alt="Slide generator"><br><sub><strong>08 · Slide generator</strong><br>Document Studio: from the client's PDFs to a branded deck (PPTX) before the meeting.</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><img src="assets/services/report-writer.jpg" alt="Report writer"><br><sub><strong>09 · Report writer</strong><br>Scattered data in, quarterly report out (DOCX), in the client's brand.</sub></td>
+<td align="center" width="25%"><img src="assets/services/infographic-maker.jpg" alt="Infographic maker"><br><sub><strong>10 · Infographic maker</strong><br>Numbers, tables and text become an editorial infographic (PNG), ready to publish.</sub></td>
+<td align="center" width="25%"><img src="assets/services/local-lead-finder.jpg" alt="Local lead finder"><br><sub><strong>11 · Local lead finder</strong><br>Speed-to-Lead: finds the businesses in the client's territory that need them, ranked by closing probability.</sub></td>
+<td align="center" width="25%"><img src="assets/services/ai-search-visibility.jpg" alt="AI-search visibility"><br><sub><strong>12 · AI-search visibility (AEO)</strong><br>Makes the business readable and citable by ChatGPT, Gemini and Perplexity — and monitors how it appears.</sub></td>
+</tr>
+<tr>
+<td align="center" width="25%"><img src="assets/services/landing-hosting.jpg" alt="Landing page + hosting"><br><sub><strong>13 · Landing page + hosting</strong><br>A different graphic engine for every page; domain, hosting, certificate and edits included.</sub></td>
+<td align="center" width="25%"><img src="assets/services/seo-google-profile.jpg" alt="SEO / Google Business Profile"><br><sub><strong>14 · SEO / Google profile</strong><br>A page for every city and trade, a curated Google Business Profile: Google finds them.</sub></td>
+<td align="center" width="25%"><img src="assets/agentemia-console.webp" alt="agentemIA console"><br><sub><strong>The console</strong><br>Where all 14 land: 8-state funnel, every channel in one inbox, real-time costs.</sub></td>
+<td align="center" width="25%"><img src="assets/agentemia-landing.jpg" alt="agentemia.it"><br><sub><strong>agentemia.it</strong><br>The landing is the product: write to Sofia, the widget bottom-right is the real thing.</sub></td>
+</tr>
+</table>
+
+<p align="center"><sub>Verticalised for <a href="https://agentemia.it/soluzioni/agente-ai-per-studi-medici/">medical practices</a> · <a href="https://agentemia.it/soluzioni/agente-ai-per-studi-legali/">law firms</a> · <a href="https://agentemia.it/soluzioni/agente-ai-per-commercialisti/">accountants</a> · <a href="https://agentemia.it/soluzioni/agente-ai-per-hotel/">hotels</a> · <a href="https://agentemia.it/soluzioni/agente-ai-per-ristoranti/">restaurants</a> — <a href="https://agentemia.it/soluzioni/">all sectors</a></sub></p>
+
+### The team that runs it
 
 <table align="center">
 <tr>
@@ -57,29 +90,40 @@ and hand off to a human.
 </tr>
 </table>
 
-<p align="center">
-  <img src="assets/agentemia-demo-widget.gif" alt="The agentemIA widget answering a real question on a client's site" width="88%">
-</p>
-<p align="center"><sub>The widget on a client's site: real question, request analysis, sector knowledge base, appointment proposal. Live.</sub></p>
+### The campaign — one 20-second spot per service
 
-<table align="center">
-<tr>
-<td width="50%" align="center"><img src="assets/agentemia-console.webp" alt="agentemIA console — leads, appointments, attributed revenue, conversations"><br><sub><strong>The console</strong> — 8-state funnel, every channel in one inbox, real-time costs, nightly self-improvement of the agents.</sub></td>
-<td width="50%" align="center"><img src="assets/agentemia-whatsapp.gif" alt="WhatsApp automation spot"><br><sub><strong>Every channel</strong> — site chat, phone, WhatsApp, Facebook; same inbox, same brand.</sub></td>
-</tr>
-</table>
-
-**The campaign — 14 products, 60 seconds.** Every spot is produced in-house with Remotion and AI video: brief → storyboard → render, no agency.
+Every spot is produced in-house (Remotion + AI video, brief → storyboard → render, no agency). The 60-second cut
+runs through all fourteen; below it, five services that are *not* the chat.
 
 https://github.com/user-attachments/assets/e67c70b8-8f74-4372-a26f-efbd790c0620
 
-**Website chat** — the AI team on the client's site (20 s):
+**02 · Phone agent** — «Squilla.» Answers on the client's own number, even on Ferragosto:
+
+https://github.com/user-attachments/assets/5906633f-cce3-4a67-8f6e-066c193d3a25
+
+**07 · CRM / ERP integration** — the agent writes into the client's management system, once, never by hand:
+
+https://github.com/user-attachments/assets/675fd0eb-13f5-456e-b9c1-dcf492366ea4
+
+**08 · Slide generator** — Document Studio: «Un PDF. Domani presenti.» Deck ready before the meeting:
+
+https://github.com/user-attachments/assets/bbd1d2c1-b736-401e-a124-a09e08a59ac5
+
+**11 · Local lead finder** — Speed-to-Lead: the territory's businesses that need the client, ranked, ready to call:
+
+https://github.com/user-attachments/assets/b9cd08b3-77f9-41b2-ad0c-b6b6300866a1
+
+**12 · AI-search visibility** — «Chi è il migliore in zona?» If the AI doesn't know you, it recommends someone else:
+
+https://github.com/user-attachments/assets/428bfe4b-6359-4b97-b957-915295e3add1
+
+<details>
+<summary><sub>Also: 01 · Website chat spot</sub></summary>
 
 https://github.com/user-attachments/assets/6520746e-1c05-40b8-9b8d-56cb1dce4027
 
-**Phone agent** — answers on the client's Italian number, holidays included (20 s):
-
-https://github.com/user-attachments/assets/5906633f-cce3-4a67-8f6e-066c193d3a25
+<p align="center"><img src="assets/agentemia-demo-widget.gif" alt="The agentemIA widget on a client's site" width="80%"></p>
+</details>
 
 **Under the hood:** multi-tenant agent server (Claude API + MCP + OAuth services), Native DOM Integration (the
 widget reads scroll, dwell time and UTM source and intervenes proactively), in-chat booking and forms (zero
