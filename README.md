@@ -35,7 +35,7 @@ to Claude-powered agents that run unattended.
 | | Product | What it is | Live |
 |---|---|---|---|
 | <img src="assets/agentemia-logo.png" width="64" alt="agentemIA"> | **agentemIA** | The AI front-office department for Italian professionals and SMBs: branded website chat, an AI phone agent on an Italian number, custom landing pages — one inbox, one console. | [agentemia.it](https://agentemia.it) |
-| <img src="assets/presencia-logo.gif" width="64" alt="presencIA"> | **presencIA** | AI-powered web agency for boutique hotels and local businesses around Lake Atitlán, Guatemala: get found, get trusted, get booked. | [presencia.lat](https://presencia.lat) |
+| <img src="assets/presencia-logo.png" width="64" alt="presencIA"> | **presencIA** | AI-powered web agency for boutique hotels and local businesses around Lake Atitlán, Guatemala: get found, get trusted, get booked. | [presencia.lat](https://presencia.lat) |
 | <img src="assets/psycho-logo.png" width="64" alt="PSYCHO"> | **PSYCHO — The Trader Within** | Trading-psychology platform: AI mentor, trade journal with broker import, prop-firm rule evaluator, Monte Carlo, WhatsApp coaching. | [psycho.lat](https://psycho.lat) |
 
 ---
@@ -48,11 +48,11 @@ and hand off to a human.
 
 <table align="center">
 <tr>
-<td align="center" width="120"><img src="assets/agent-sofia.png" width="90" alt="Sofia"><br><strong>Sofia</strong><br><sub>Reception</sub></td>
-<td align="center" width="120"><img src="assets/agent-daniel.png" width="90" alt="Daniel"><br><strong>Daniel</strong><br><sub>Sales</sub></td>
-<td align="center" width="120"><img src="assets/agent-lucia.png" width="90" alt="Lucia"><br><strong>Lucia</strong><br><sub>Care</sub></td>
-<td align="center" width="120"><img src="assets/agent-pablo.png" width="90" alt="Pablo"><br><strong>Pablo</strong><br><sub>Tech support (RAG)</sub></td>
-<td align="center" width="120"><img src="assets/agent-elena.png" width="90" alt="Elena"><br><strong>Elena</strong><br><sub>Calendar</sub></td>
+<td align="center" width="120"><img src="assets/agent-sofia.png" height="96" alt="Sofia"><br><strong>Sofia</strong><br><sub>Reception</sub></td>
+<td align="center" width="120"><img src="assets/agent-daniel.png" height="96" alt="Daniel"><br><strong>Daniel</strong><br><sub>Sales</sub></td>
+<td align="center" width="120"><img src="assets/agent-lucia.png" height="96" alt="Lucia"><br><strong>Lucia</strong><br><sub>Care</sub></td>
+<td align="center" width="120"><img src="assets/agent-pablo.png" height="96" alt="Pablo"><br><strong>Pablo</strong><br><sub>Tech support (RAG)</sub></td>
+<td align="center" width="120"><img src="assets/agent-elena.png" height="96" alt="Elena"><br><strong>Elena</strong><br><sub>Calendar</sub></td>
 </tr>
 </table>
 
@@ -86,7 +86,7 @@ go-live, Speed-to-Lead prospecting engine, Stripe billing, all data in the EU.
 ## presencIA — get found, get trusted, get booked
 
 <p align="center">
-  <img src="assets/presencia-hero.gif" alt="presencia.lat hero" width="92%">
+  <img src="assets/presencia-hero-poster.jpg" alt="presencia.lat hero" width="92%">
 </p>
 
 The only agency on Lake Atitlán built exclusively for boutique hotels and hospedajes — and the first one where AI
