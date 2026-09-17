@@ -35,7 +35,7 @@ to Claude-powered agents that run unattended.
 <table>
 <tr><th width="160">Product</th><th>What it is</th><th width="130">Live</th></tr>
 <tr><td align="center"><img src="assets/agentemia-logo.png" width="110" alt="agentemIA"><br><strong>agentemIA</strong></td><td>The AI front-office department for Italian professionals and SMBs: branded website chat, an AI phone agent on an Italian number, custom landing pages — one inbox, one console.</td><td align="center"><a href="https://agentemia.it">agentemia.it</a></td></tr>
-<tr><td align="center"><img src="assets/presencia-logo.png" width="72" alt="presencIA"><br><strong>presencIA</strong></td><td>AI-powered web agency for boutique hotels and local businesses around Lake Atitlán, Guatemala: get found, get trusted, get booked.</td><td align="center"><a href="https://presencia.lat">presencia.lat</a></td></tr>
+<tr><td align="center"><img src="assets/presencia-logo-mark.png" width="72" alt="presencIA"><br><strong>presencIA</strong></td><td>AI-powered web agency for boutique hotels and local businesses around Lake Atitlán, Guatemala: get found, get trusted, get booked.</td><td align="center"><a href="https://presencia.lat">presencia.lat</a></td></tr>
 <tr><td align="center"><img src="assets/psycho-logo.png" width="90" alt="PSYCHO"><br><strong>PSYCHO</strong><br><sub>The Trader Within</sub></td><td>Trading-psychology platform: AI mentor, trade journal with broker import, prop-firm rule evaluator, Monte Carlo, WhatsApp coaching.</td><td align="center"><a href="https://psycho.lat">psycho.lat</a></td></tr>
 </table>
 
@@ -87,7 +87,7 @@ go-live, Speed-to-Lead prospecting engine, Stripe billing, all data in the EU.
 ## presencIA — get found, get trusted, get booked
 
 <p align="center">
-  <img src="assets/presencia-hero-poster.jpg" alt="presencia.lat hero" width="92%">
+  <img src="assets/presencia-hero-dark.jpg" alt="presencia.lat hero" width="92%">
 </p>
 
 The only agency on Lake Atitlán built exclusively for boutique hotels and hospedajes — and the first one where AI
