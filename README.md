@@ -22,7 +22,7 @@
 <p align="center">
   <img src="assets/agentemia-website-chat.gif" alt="agentemIA — the AI front-office answering on a client's website, in real time" width="92%">
 </p>
-<p align="center"><sub>agentemIA campaign spot — the branded AI team answering on the client's own site. <a href="assets/spot-website-chat.mp4">▶ full spot</a> · <a href="assets/agentemia-reel-60s.mp4">▶ 60-second reel</a></sub></p>
+<p align="center"><sub>agentemIA campaign spot — the branded AI team answering on the client's own site. Full spots with sound below.</sub></p>
 
 ---
 
@@ -65,9 +65,21 @@ and hand off to a human.
 <table align="center">
 <tr>
 <td width="50%" align="center"><img src="assets/agentemia-console.webp" alt="agentemIA console — leads, appointments, attributed revenue, conversations"><br><sub><strong>The console</strong> — 8-state funnel, every channel in one inbox, real-time costs, nightly self-improvement of the agents.</sub></td>
-<td width="50%" align="center"><img src="assets/agentemia-whatsapp.gif" alt="WhatsApp automation spot"><br><sub><strong>Every channel</strong> — site chat, phone, WhatsApp, Facebook; same inbox, same brand. <a href="assets/spot-phone-answering.mp4">▶ phone-agent spot</a></sub></td>
+<td width="50%" align="center"><img src="assets/agentemia-whatsapp.gif" alt="WhatsApp automation spot"><br><sub><strong>Every channel</strong> — site chat, phone, WhatsApp, Facebook; same inbox, same brand.</sub></td>
 </tr>
 </table>
+
+**The campaign — 14 products, 60 seconds.** Every spot is produced in-house with Remotion and AI video: brief → storyboard → render, no agency.
+
+https://github.com/user-attachments/assets/e67c70b8-8f74-4372-a26f-efbd790c0620
+
+**Website chat** — the AI team on the client's site (20 s):
+
+https://github.com/user-attachments/assets/6520746e-1c05-40b8-9b8d-56cb1dce4027
+
+**Phone agent** — answers on the client's Italian number, holidays included (20 s):
+
+https://github.com/user-attachments/assets/5906633f-cce3-4a67-8f6e-066c193d3a25
 
 **Under the hood:** multi-tenant agent server (Claude API + MCP + OAuth services), Native DOM Integration (the
 widget reads scroll, dwell time and UTM source and intervenes proactively), in-chat booking and forms (zero
@@ -97,14 +109,18 @@ WhatsApp and web, direct bookings, fewer OTA commissions).
 
 <table align="center">
 <tr>
-<td align="center" width="20%"><img src="assets/pf-agentemia.webp" alt="agentemIA"><br><sub>agentemIA</sub></td>
-<td align="center" width="20%"><img src="assets/pf-grazia.webp" alt="Grazia"><br><sub>Grazia · Panajachel</sub></td>
-<td align="center" width="20%"><img src="assets/pf-psycho.webp" alt="PSYCHO"><br><sub>PSYCHO</sub></td>
-<td align="center" width="20%"><img src="assets/pf-techne.webp" alt="Techne"><br><sub>Techne</sub></td>
+<td align="center" width="20%"><a href="https://agentemia.it"><img src="assets/pf-agentemia.webp" alt="agentemIA"></a><br><sub>agentemIA</sub></td>
+<td align="center" width="20%"><a href="https://grazia.lat"><img src="assets/pf-grazia.webp" alt="Grazia"></a><br><sub>Grazia · Panajachel</sub></td>
+<td align="center" width="20%"><a href="https://psycho.lat"><img src="assets/pf-psycho.webp" alt="PSYCHO"></a><br><sub>PSYCHO</sub></td>
+<td align="center" width="20%"><a href="https://agentemia.it/landing-page/ciak/"><img src="assets/pf-ciak.webp" alt="CIAK — AI video, dal brief alla scena"></a><br><sub>CIAK · AI video</sub></td>
 <td align="center" width="20%"><img src="assets/pf-zavala.webp" alt="Zavala"><br><sub>Zavala</sub></td>
 </tr>
 </table>
-<p align="center"><sub>Portfolio — every site ships with the branded AI agent embedded. <a href="assets/presencia-founders.mp4">▶ founders spot</a></sub></p>
+<p align="center"><sub>Portfolio — every site ships with the branded AI agent embedded. CIAK is one of the 20+ landing-page engines on <a href="https://agentemia.it/landing-page">agentemia.it/landing-page</a>.</sub></p>
+
+https://github.com/user-attachments/assets/2473eb99-4139-4e08-bce7-269fdabac1a8
+
+<p align="center"><sub>presencIA — founders &amp; directivos spot, generated in-house.</sub></p>
 
 ---
 
